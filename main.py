@@ -84,4 +84,4 @@ if __name__ == "__main__":
     for i in range(len(positions)):
         print(f"Position {position_names[i]} ({positions[i]}) is closest to container {closest_names[i]} ({closest_centers[i]})")
 
-    print('hello')
+    print('hello world')
